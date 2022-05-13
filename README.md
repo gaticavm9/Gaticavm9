@@ -1,7 +1,7 @@
 ## Hola! soy Víctor Gatica 👋
 - Estudiante de Ingeniería Civil Informática
 
-[LinkedIn](https://www.linkedin.com/in/gaticavm9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1575F9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gaticavm9/)
 
 
 ### Habilidades:
