@@ -15,6 +15,11 @@
 [![R](https://img.shields.io/badge/R-C1C3C6?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
 </br>
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+</br>
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 </br>
 [![Ionic](https://img.shields.io/badge/Ionic-1575F9?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
