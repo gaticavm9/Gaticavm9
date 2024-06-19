@@ -5,7 +5,6 @@
 
 
 ### Habilidades:
-**Bases de Datos** 
 [![MySQL](https://img.shields.io/badge/MySQL-E87812?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
@@ -13,8 +12,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white&labelColor=101010)]()
 </br>
-
-**Lenguajes de Programación**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -26,8 +23,6 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
 [![Lisp](https://img.shields.io/badge/Lisp-3E333C?style=for-the-badge&logo=lisp&logoColor=white&labelColor=101010)]()
 </br>
-
-**Frameworks & Librerias**
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
@@ -40,15 +35,11 @@
 [![Ionic](https://img.shields.io/badge/Ionic-1575F9?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)]()
 [![NodeRed](https://img.shields.io/badge/NodeRed-8F0000?style=for-the-badge&logo=nodered&logoColor=white&labelColor=101010)]()
 </br>
-
-**Frontend y Diseño**
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white&labelColor=101010)]()
 </br>
-
-**Cloud & DevOps**
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
@@ -56,16 +47,12 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 </br>
-
-**Data Science & AI**
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rStudio&logoColor=white&labelColor=101010)]()
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=101010)]()
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-80CDC1?style=for-the-badge&logo=arcgis&logoColor=white&labelColor=101010)]()
 </br>
-
-**Herramientas de Oficina**
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
@@ -73,7 +60,6 @@
 [![SSIS](https://img.shields.io/badge/SSIS-5A69A6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=101010)]()
 </br>
-
 Y más...
 
 <!--
